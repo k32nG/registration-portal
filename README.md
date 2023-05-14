@@ -38,7 +38,7 @@ To run the Registration Portal System locally, ensure you have the following pre
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/k32ng/registrationPortal.git
+git clone https://github.com/k32ng/registration-portal.git
 ```
 
 2. Configure the database connection by updating the `config.php` file with your database credentials.
